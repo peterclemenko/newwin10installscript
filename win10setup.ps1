@@ -48,3 +48,5 @@ choco install paint.net -y
 choco install unity -y 
 choco install epicgameslauncher -y
 choco install minecraft -y
+choco install mremoteng -y
+choco install winscp -y
