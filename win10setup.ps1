@@ -1,5 +1,8 @@
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 choco upgrade all -y
+choco install powershell-core --pre  -y 
+choco install dotnetcore-sdk --pre  -y
+choco install dotnetcore-runtime --pre  -y
 choco install keepass -y
 choco install keepass-plugin-keeagent -y
 choco install geforce-experience -y
@@ -39,7 +42,10 @@ choco install kubernetes-cli -y
 choco install slack -y
 choco install xming -y
 choco install putty -y
+choco install puppet -y
 choco install docker -y
+choco install greenshot -y
+choco install cmake.install -y
 choco install authy-desktop -y
 choco install visualstudiocode -y
 choco install vscode-powershell -y
@@ -50,3 +56,8 @@ choco install epicgameslauncher -y
 choco install minecraft -y
 choco install mremoteng -y
 choco install winscp -y
+choco install tor-browser -y
+choco install libreoffice -y
+choco install androidstudio -y
+choco install filebeat -y
+choco install deluge -y
