@@ -43,7 +43,7 @@ choco install slack -y
 choco install xming -y
 choco install putty -y
 choco install puppet -y
-choco install docker -y
+choco install docker-for-windows -y
 choco install greenshot -y
 choco install cmake.install -y
 choco install authy-desktop -y
