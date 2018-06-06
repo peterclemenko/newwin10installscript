@@ -22,3 +22,4 @@ docker pull wpscanteam/wpscan
 docker pull tensorflow/tensorflow
 docker pull gw000/keras-full
 docker pull aoighost/powershell-node-ptf-stretch-i
+docker pull python

@@ -66,3 +66,5 @@ choco install deluge -y
 choco install plexmediaserver -y
 choco install plex-home-theater -y
 choco install logitechgaming -y
+choco install python3 -y
+choco install curl -y
