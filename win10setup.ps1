@@ -13,6 +13,7 @@ choco install tortoisegit -y
 choco install cygwin-y
 choco install nodejs -y
 choco install yarn -y
+choco install postman -y
 choco install steam -y
 choco install brave -y
 choco install googlechrome  -y
