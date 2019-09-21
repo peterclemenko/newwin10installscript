@@ -34,6 +34,7 @@ choco install greenshot -y
 choco install authy-desktop -y
 choco install visualstudiocode -y
 choco install vscode-powershell -y
+choco install unity-hub -y
 choco install epicgameslauncher -y
 choco install minecraft -y
 choco install mremoteng -y
